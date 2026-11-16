@@ -18,4 +18,4 @@
 :HL["/lumerepresa/_next/static/media/e63b65bb308a9351-s.p.3j3877k49yy0l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/lumerepresa/_next/static/media/fe68a48bcbeff111-s.p.1jake7ccbq8_p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"y7D7IdBSdNLtNqNpJa5u7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"uYB05qZXdSzPqc96gRHHu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
