@@ -2,7 +2,7 @@
 :HL["/lumerepresa/_next/static/chunks/0q0pt_d1e20rd.css","style"]
 :HL["/lumerepresa/_next/static/chunks/1hoa_f_ad0vbf.css","style"]
 :HL["/lumerepresa/_next/static/chunks/0k70j3q78xjpg.css","style"]
-:HL["/lumerepresa/_next/static/chunks/3x1mvavzn502o.css","style"]
+:HL["/lumerepresa/_next/static/chunks/3dab8o41_i2d9.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"uYB05qZXdSzPqc96gRHHu","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Vh-O48d-dtWJSkr_k9CEb","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
